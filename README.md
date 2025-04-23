@@ -106,3 +106,6 @@ You can use this README as a template for your own projects! Here’s how:
 If you find this README helpful, consider giving it a **star** ⭐ on GitHub! It helps others discover it and motivates me to improve it further.  
 
 Feel free to **fork** and modify it to suit your needs! 🚀
+
+
+![Alt text](/ML-Project-Structure.jpeg)
